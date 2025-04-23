@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Echo-Probability-Calculator/precache-manifest.b57c12623090921f5155ecb2ec75fbbd.js"
+  "/Echo-Probability-Calculator/precache-manifest.d5c046f4e928b1cd6a4cd3d40bbc4b1e.js"
 );
 
 self.addEventListener('message', (event) => {
