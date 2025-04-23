@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "main.js",
-  "homepage": "https://adu014.github.io/Echo-Probability-Calculator",
+  "homepage": "https://adu014.github.io/Echo-Calculator",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
