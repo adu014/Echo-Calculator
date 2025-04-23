@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Echo-Calculator/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Echo-Calculator/static/js/main.47c34cad.chunk.js",
-    "main.js.map": "/Echo-Calculator/static/js/main.47c34cad.chunk.js.map",
-    "runtime-main.js": "/Echo-Calculator/static/js/runtime-main.f556872f.js",
-    "runtime-main.js.map": "/Echo-Calculator/static/js/runtime-main.f556872f.js.map",
-    "static/js/2.066143b6.chunk.js": "/Echo-Calculator/static/js/2.066143b6.chunk.js",
-    "static/js/2.066143b6.chunk.js.map": "/Echo-Calculator/static/js/2.066143b6.chunk.js.map",
-    "static/js/3.64a6ecb5.chunk.js": "/Echo-Calculator/static/js/3.64a6ecb5.chunk.js",
-    "static/js/3.64a6ecb5.chunk.js.map": "/Echo-Calculator/static/js/3.64a6ecb5.chunk.js.map",
-    "index.html": "/Echo-Calculator/index.html",
-    "precache-manifest.9351f8478ce0bde1ff9a8738083e7f4f.js": "/Echo-Calculator/precache-manifest.9351f8478ce0bde1ff9a8738083e7f4f.js",
-    "service-worker.js": "/Echo-Calculator/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/Echo-Calculator/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.066143b6.chunk.js.LICENSE.txt": "/Echo-Calculator/static/js/2.066143b6.chunk.js.LICENSE.txt"
+    "main.css": "/Echo-Probability-Calculator/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Echo-Probability-Calculator/static/js/main.47c34cad.chunk.js",
+    "main.js.map": "/Echo-Probability-Calculator/static/js/main.47c34cad.chunk.js.map",
+    "runtime-main.js": "/Echo-Probability-Calculator/static/js/runtime-main.37f50221.js",
+    "runtime-main.js.map": "/Echo-Probability-Calculator/static/js/runtime-main.37f50221.js.map",
+    "static/js/2.066143b6.chunk.js": "/Echo-Probability-Calculator/static/js/2.066143b6.chunk.js",
+    "static/js/2.066143b6.chunk.js.map": "/Echo-Probability-Calculator/static/js/2.066143b6.chunk.js.map",
+    "static/js/3.64a6ecb5.chunk.js": "/Echo-Probability-Calculator/static/js/3.64a6ecb5.chunk.js",
+    "static/js/3.64a6ecb5.chunk.js.map": "/Echo-Probability-Calculator/static/js/3.64a6ecb5.chunk.js.map",
+    "index.html": "/Echo-Probability-Calculator/index.html",
+    "precache-manifest.b57c12623090921f5155ecb2ec75fbbd.js": "/Echo-Probability-Calculator/precache-manifest.b57c12623090921f5155ecb2ec75fbbd.js",
+    "service-worker.js": "/Echo-Probability-Calculator/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Echo-Probability-Calculator/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.066143b6.chunk.js.LICENSE.txt": "/Echo-Probability-Calculator/static/js/2.066143b6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f556872f.js",
+    "static/js/runtime-main.37f50221.js",
     "static/js/2.066143b6.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.47c34cad.chunk.js"
